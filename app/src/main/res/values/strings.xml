@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="habit">Habit</string>
+    <string name="date">Select Start Date</string>
+    <string name="time">Select Time</string>
+    <string name="repetition">Repetition</string>
+    <string name="remainder">Remainder\t\t\t</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">save</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="yearly">Yearly</string>
+    <string name="no">No Remainder</string>
+    <string name="min5">5 Minutes</string>
+    <string name="min10">10 Minutes</string>
+    <string name="min30">30 Minutes</string>
+    <string name="hr1">1 Hour</string>
+</resources>

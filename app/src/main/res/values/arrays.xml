@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_repetition_options">
+        <item>@string/daily</item>
+        <item>@string/weekly</item>
+        <item>@string/monthly</item>
+        <item>@string/yearly</item>
+    </string-array>
+    <string-array name="array_remainder_options">
+        <item>@string/no</item>
+        <item>@string/min5</item>
+        <item>@string/min10</item>
+        <item>@string/min30</item>
+        <item>@string/hr1</item>
+    </string-array>
+</resources>
